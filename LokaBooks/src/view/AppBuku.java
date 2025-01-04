@@ -11,11 +11,6 @@ import models.BukuFisik;
 import models.Keanggotaan;
 import utils.TerminalUtils;
 
-//Nama  : Muhammad Nasrulloh
-//NIM   : 23051204256
-//Kelas : TI 23 H
-
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -105,9 +100,6 @@ public class AppBuku {
                 scanner.nextLine(); // Wait for Enter
             }
             
-            // Clear screen (opsional, sesuaikan dengan sistem operasi)
-            // System.out.print("\033[H\033[2J");
-            // System.out.flush();
         }
         
         scanner.close();
